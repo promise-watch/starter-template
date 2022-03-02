@@ -7,3 +7,22 @@
 
 An Api/E2E monitor that runs promises on intervals and sends notifications on errors. Supports [playwright](https://playwright.dev/) for reliable E2E testing. Has prebuilt [notifiers](#notifiers) for [SMTP](./packages/smtp), [Slack](./packages/slack), and [Pushover](./packages/pushover), and can support any [custom notifier](#custom-notifiers).
 
+## Getting Started
+
+Install your dependencies. I'm using pnpm, you can pick your own poison: pnpm, npm, yarn, whatever you want.
+
+```bash
+npm install -g pnpm # or just use 
+pnpm install
+```
+
+Starting the project
+
+```
+pnpm start
+```
+
+## Add your own runs
+
+Open the [`runs` directory](./runs) and add your own. I'm not too sure what the run limit is... One day someone will tell us.
+
