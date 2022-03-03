@@ -1,14 +1,14 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@promise-watch/core': ^1.1.0-next.4
+  '@promise-watch/core': ^1.1.1
   '@types/node': ^17.0.21
   playwright: ^1.19.2
   ts-node: ^10.6.0
   typescript: ^4.6.2
 
 dependencies:
-  '@promise-watch/core': 1.1.0-next.4_a1ab91802893bc3c51849cd5b5fa66bb
+  '@promise-watch/core': 1.1.1_a1ab91802893bc3c51849cd5b5fa66bb
   playwright: 1.19.2
 
 devDependencies:
@@ -30,8 +30,8 @@ packages:
       '@cspotcode/source-map-consumer': 0.8.0
     dev: true
 
-  /@promise-watch/core/1.1.0-next.4_a1ab91802893bc3c51849cd5b5fa66bb:
-    resolution: {integrity: sha512-h5X81nOihfZFE8myeEesfVLSQM7KhizpmXRhWniDAeKhLOnm2Z2pVZoHFBcNOzvJm3OguLrSflS1FjO7XStbIA==}
+  /@promise-watch/core/1.1.1_a1ab91802893bc3c51849cd5b5fa66bb:
+    resolution: {integrity: sha512-x3ObXtnCNhgiBQu3Q1PCbJ0xh6qcnLTugm7iPBjAcHAy5t9s6ThVuDbHD9/UU9Ce25MpHNTvDIMuQUtjbGkWkQ==}
     hasBin: true
     peerDependencies:
       playwright: ^1.19.1
