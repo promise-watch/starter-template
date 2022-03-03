@@ -5,8 +5,7 @@
     "start": "promise-watch"
   },
   "dependencies": {
-    "@promise-watch/axios": "^1.0.0",
-    "@promise-watch/core": "^1.1.0-next.1",
+    "@promise-watch/core": "^1.1.0-next.4",
     "playwright": "^1.19.2"
   },
   "devDependencies": {
