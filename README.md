@@ -12,7 +12,7 @@ An Api/E2E monitor that runs promises on intervals and sends notifications on er
 Install your dependencies. I'm using pnpm, you can pick your own poison: pnpm, npm, yarn, whatever you want.
 
 ```bash
-npm install -g pnpm # or just use 
+npm install -g pnpm # or just use whatever: npm, yarn
 pnpm install
 ```
 
