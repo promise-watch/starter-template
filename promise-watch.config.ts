@@ -1,6 +1,6 @@
-const { ConsoleNotifier } = require("@promise-watch/core");
+import { ConsoleNotifier } from "@promise-watch/core";
 
-module.exports = {
+export default {
     notifiers: [
         new ConsoleNotifier(),
     ]
